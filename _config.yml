@@ -1,0 +1,14 @@
+layout_spectrum: 0.7171286556404084
+typography_spectrum: 0.8522538975812495
+color:
+  brandStrength: 0.2493857543449849
+  lightness: 0.45472056325525045
+  saturation: 0.5244245552457869
+  rhythmicContrast: 0.3106406901497394
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: clearsummit
